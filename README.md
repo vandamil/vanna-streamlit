@@ -18,7 +18,7 @@ You can configure secrets in `.streamlit/secrets.toml` and access them in your a
 # Run
 
 ```bash
-streamlit run app.py
+390bc303830b4105b5a27b0e9517434a
 ```
 
 
